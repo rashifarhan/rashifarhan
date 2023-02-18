@@ -1,4 +1,4 @@
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)]
+![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <h1 align="center">Hi 👋, I'm Rasi Farhan P</h1>
 <h3 align="center">A Passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
