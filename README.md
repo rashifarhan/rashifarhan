@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Money Manager](https://github.com/rashifarhan/personal_money_manager)
+- 🔭 I’m currently working on [Netflix Clone App](https://github.com/rashifarhan/netflix_app)
 
 - 🌱 I’m currently learning **Sqflite,Hive,Firebase**
 
