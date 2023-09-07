@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix Clone App](https://github.com/rashifarhan/netflix_app)
+- 🔭 I’m currently working on [News app using clean architecture](https://github.com/rashifarhan/netflix_app)
 
-- 🌱 I’m currently learning **Sqflite,Hive,Firebase**
+- 🌱 I’m currently learning **Clean architecture, bloc, dependency injection, firebase fcm**
 
-- 💬 Ask me about **Flutter,Dart,Hive**
+- 💬 Ask me about **Flutter,bloc,firebase**
 
 - 📫 How to reach me **rashifarhan90@gmail.com**
 
